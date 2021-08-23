@@ -5,7 +5,7 @@
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&theme=dracula" />
+  <img align="center" width="48.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&theme=dracula" />
 </a>
 
 <!--
