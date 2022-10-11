@@ -11,18 +11,17 @@ I am detail-oriented and my goal is to produce more cleaner code than the previo
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=400&hide_border=true&theme=github_dark&bg_color=00000000">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=400&hide_border=true&bg_color=00000000">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=400&hide_border=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=450&hide_border=true&theme=github_dark&bg_color=00000000&text_bold=false">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=450&hide_border=true&bg_color=00000000&text_bold=false">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&card_width=450&hide_border=true&bg_color=00000000&text_bold=false" />
    </picture>
    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=350&hide_border=true&theme=github_dark&bg_color=00000000">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=350&hide_border=true&bg_color=00000000">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=350&hide_border=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=400&hide_border=true&theme=github_dark&bg_color=00000000&text_bold=false">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=400&hide_border=true&bg_color=00000000&text_bold=false">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&card_width=400&hide_border=true&bg_color=00000000&text_bold=false" />
    </picture>
 </a>
 </p>
-
 
 <!--
 **Elenterius/Elenterius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
