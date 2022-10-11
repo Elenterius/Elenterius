@@ -1,13 +1,20 @@
-### Hi there 👋
-I'm a Java Developer mostly working on Minecraft mods in my free time.
-<br><br>
+<h3 align="center">Hi there 👋</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="48.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&theme=dracula" />
-</a>
+<p align="center">
+I'm a Java Developer mostly working on Minecraft mods in my free time.
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="195em" src="https://github-readme-stats.vercel.app/api?username=elenterius&count_private=true&show_icons=true&theme=dracula" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenterius&layout=compact&theme=dracula" />
+    </a>
+</p>
+
 
 <!--
 **Elenterius/Elenterius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
