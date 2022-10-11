@@ -3,12 +3,10 @@
 <p align="center" style="padding: 50%">
 I am a Java developer who enjoys programming in my free time.
 I am always looking for new opportunities to learn new technologies and explore new concepts.
-I am detail-oriented and my goal is to produce cleaner code than the previous time!
+I am detail-oriented and my goal is to produce more cleaner code than the previous time!
 </p>
 
-<p align="center">
-:heart: <strong>Minecraft</strong>
-</p>
+<h2></h2>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
