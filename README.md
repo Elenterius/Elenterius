@@ -1,10 +1,14 @@
 <h3 align="center">Hi there 👋</h3>
 
-<p align="center">
-I'm a Java Developer mostly working on Minecraft mods in my free time.
+<p align="center" style="padding: 50%">
+I am a Java developer who enjoys programming in my free time.
+I am always looking for new opportunities to learn new technologies and explore new concepts.
+I am detail-oriented and my goal is to produce cleaner code than the previous time!
 </p>
 
-<br>
+<p align="center">
+:heart: <strong>Minecraft</strong>
+</p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
