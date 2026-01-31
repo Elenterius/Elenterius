@@ -1,9 +1,8 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">“Change is the Enemy of Perfect Design”</h3>
 
 <p align="center" style="padding: 50%">
-I am a Java developer who enjoys programming in my free time.
-I am always looking for new opportunities to learn new technologies and explore new concepts.
-I am detail-oriented and my goal is to produce more cleaner code than the previous time!
+I am a Software Developer who enjoys exploring new technologies and strives to write readable, maintainable code, fully aware
+that clean code is unrealistic in complex, evolving systems. I focus on continous improvment, aiming to deliver better code with each iteration, while balancing perfect/beautiful crafted code against practical solutions that get the job done in a fraction of the time.
 </p>
 
 <h2></h2>
