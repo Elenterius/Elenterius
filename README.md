@@ -1,8 +1,8 @@
-<h3 align="center">“Change is the Enemy of Perfect Design”</h3>
+*<h3 align="center">“Change is the Enemy of Perfect Design”</h3>*
 
-<p align="center" style="padding: 50%">
+<p align="center" style="text-align:justify">
 I am a Software Developer who enjoys exploring new technologies and strives to write readable, maintainable code, fully aware
-that clean code is unrealistic in complex, evolving systems. I focus on continous improvment, aiming to deliver better code with each iteration, while balancing perfect/beautiful crafted code against practical solutions that get the job done in a fraction of the time.
+that clean code is unrealistic in complex, evolving systems. I focus on continous improvment, aiming to deliver better code with each iteration, while balancing perfectly/beautifully crafted code against practical solutions that get the job done in a fraction of the time.
 </p>
 
 <h2></h2>
